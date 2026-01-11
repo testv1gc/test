@@ -11,12 +11,14 @@
             "id": "40da3fa19c82fed0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "gatunek/Hjarta_skinnvernd.jpg"
+                "file": "gatunek/Dziad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Hjarta_skinnvernd"
+              "icon": "lucide-file",
+              "title": "Dziad"
             }
           }
         ]
@@ -190,12 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdcc21d80c006c73",
+  "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
+    "gatunek/Ubrania.md",
+    "Kyrtill.md",
     "gatunek/Dziad.md",
-    "2026-01-11.md",
-    "gatunek/Kyrtill.md",
     "gatunek/Hjarta_skinnvernd.jpg",
+    "2026-01-11.md",
     "_assets/kattelick.png",
     "kattelick.png",
     "_assets",
