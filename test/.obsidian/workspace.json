@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gatunek/Dziad.md",
-                "mode": "source",
+                "file": "gatunek/Kyrtill.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dziad"
+              "title": "Kyrtill"
             }
           }
         ]
@@ -194,10 +194,10 @@
   },
   "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
-    "_assets/kattelick.png",
     "gatunek/Hjarta_skinnvernd.jpg",
-    "gatunek/Dziad.md",
     "gatunek/Kyrtill.md",
+    "gatunek/Dziad.md",
+    "_assets/kattelick.png",
     "kattelick.png",
     "_assets",
     "_assets",
