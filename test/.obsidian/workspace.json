@@ -11,14 +11,12 @@
             "id": "40da3fa19c82fed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "gatunek/Kyrtill.md",
-                "mode": "preview",
-                "source": false
+                "file": "gatunek/Hjarta_skinnvernd.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Kyrtill"
+              "icon": "lucide-image",
+              "title": "Hjarta_skinnvernd"
             }
           }
         ]
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gatunek/Dziad.md",
-                "linksCollapsed": false,
+                "file": "gatunek/Hjarta_skinnvernd.jpg",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Łącza wychodzące z Dziad"
+              "title": "Łącza wychodzące z Hjarta_skinnvernd"
             }
           },
           {
@@ -174,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40da3fa19c82fed0",
+  "active": "bdcc21d80c006c73",
   "lastOpenFiles": [
-    "gatunek/Hjarta_skinnvernd.jpg",
-    "gatunek/Kyrtill.md",
     "gatunek/Dziad.md",
+    "2026-01-11.md",
+    "gatunek/Kyrtill.md",
+    "gatunek/Hjarta_skinnvernd.jpg",
     "_assets/kattelick.png",
     "kattelick.png",
     "_assets",
