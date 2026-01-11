@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d602a3f75560656",
+        "id": "3cb3fc99f6734bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "01d83a335d627119",
+            "id": "40da3fa19c82fed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gatunek/Kyrtill.md",
+                "file": "gatunek/Dziad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kyrtill"
+              "title": "Dziad"
             }
           }
         ]
@@ -192,16 +192,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01d83a335d627119",
+  "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
-    "kattelick.png",
+    "_assets/kattelick.png",
+    "gatunek/Hjarta_skinnvernd.jpg",
     "gatunek/Dziad.md",
+    "gatunek/Kyrtill.md",
+    "kattelick.png",
     "_assets",
     "_assets",
     "Nowy folder",
     "ce870800-25c8-46db-9548-574d593a646b.png",
-    "gatunek/Hjarta_skinnvernd.jpg",
-    "gatunek/Kyrtill.md",
     "gatunek/Hjarta skinnvernd.jpg",
     "Hjarta.md",
     "Hjarta skinnvernd.jpg",
