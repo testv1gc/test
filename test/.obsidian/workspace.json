@@ -11,10 +11,14 @@
             "id": "01d83a335d627119",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "gatunek/Kyrtill.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "Kyrtill"
             }
           }
         ]
@@ -187,11 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdcc21d80c006c73",
+  "active": "01d83a335d627119",
   "lastOpenFiles": [
+    "gatunek/Hjarta_skinnvernd.jpg",
+    "gatunek/Kyrtill.md",
+    "gatunek/Hjarta skinnvernd.jpg",
     "Hjarta.md",
     "Hjarta skinnvernd.jpg",
-    "gatunek/Kyrtill.md",
     "Hjarta skinnvernd.jpg",
     "gatunek/Dziad.md",
     "gatunek/Bez nazwy",
