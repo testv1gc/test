@@ -1,4 +1,4 @@
 Kyrtill gruba, długa koszula wykonywana z pasów trawy, włókien roślinnych oraz futra owadów. 
 
 
-![[Hjarta skinnvernd.jpg]]
+![Hjarta skinnvernd](Hjarta skinnvernd.jpg)
