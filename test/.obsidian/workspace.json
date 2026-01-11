@@ -11,14 +11,12 @@
             "id": "01d83a335d627119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "gatunek/Kyrtill.md",
-                "mode": "source",
-                "source": false
+                "file": "Hjarta skinnvernd.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Kyrtill"
+              "icon": "lucide-image",
+              "title": "Hjarta skinnvernd"
             }
           }
         ]
@@ -191,11 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01d83a335d627119",
+  "active": "bdcc21d80c006c73",
   "lastOpenFiles": [
+    "Hjarta.md",
+    "Hjarta skinnvernd.jpg",
+    "gatunek/Kyrtill.md",
     "Hjarta skinnvernd.jpg",
     "gatunek/Dziad.md",
-    "gatunek/Kyrtill.md",
     "gatunek/Bez nazwy",
     "gat"
   ]
