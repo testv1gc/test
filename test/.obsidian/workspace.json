@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Kyrtill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,9 +194,9 @@
   },
   "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
-    "gatunek/Ubrania.md",
     "Kyrtill.md",
     "gatunek/Dziad.md",
+    "gatunek/Ubrania.md",
     "gatunek/Hjarta_skinnvernd.jpg",
     "2026-01-11.md",
     "_assets/kattelick.png",
