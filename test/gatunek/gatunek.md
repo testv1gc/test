@@ -1,6 +1,6 @@
 ## Spis treści
-- [[Muchy Gardsviar]]
-rozmnażanie
+- [[#Muchy Gardsviar]]
+- [[#Rozmnażnie]]
 gardsviar
 inne powody
 # Muchy Gardsviar 
