@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "gatunek/gatunek.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40da3fa19c82fed0",
+  "active": "ed2b2105a1cc0739",
   "lastOpenFiles": [
     "Muchy Gardsviar.md",
     "gatunek/gatunek.md",
