@@ -3,7 +3,8 @@
 - [Rozmnażanie](#rozmnazanie)
 # Muchy Gardsviar 
 to klanowy, skrajnie waleczny gatunek inspirowany wikingami i kozakami, powszechnie nazywani zdrajcami. Ich społeczność składa się z kilku różnych gatunków much, połączonych wspólnym stylem życia i kulturą przemocy. Zazwyczaj mają ciemne ubarwienie, posiadają parę nóg, rąk, czułek oraz skrzydeł, jednak osłabiona mutacją budowa pozwala im jedynie na krótkie loty. 
-## Rozmnażanie <span id="rozmnazanie"></span>
+## Rozmnażanie
+<span id="rozmnazanie"></span>
 Rozmnażają się płciowo, a ich głównym zmysłem jest wzrok. Wiedzę systemową, naukę i inżynierię traktują z pogardą, uznając je za oznakę słabości. Społeczność Gardsviar opiera się na klanach. Tworzą rodziny, lecz nie przywiązują się do nich emocjonalnie — jednostka jest wymienna, a liczy się przetrwanie i siła rodu. Poza wojownikami istnieje niewyraźny podział ról; większość osobników jednocześnie walczy, grabi i funkcjonuje w obrębie rodziny. Wychowanie potomstwa ma drugorzędne znaczenie, a życie — własne i cudze — traktowane jest instrumentalnie. Uwielbiają trofea bitewne, przechwalanie się dokonaniami oraz wszelkie używki. 
 
 ## Gardsviar
