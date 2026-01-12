@@ -1,2 +1,2 @@
-- Stary miecz ![[husgard v2.png]]
+- Stary miecz ![[husgard_v2.png]]
  
