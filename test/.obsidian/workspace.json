@@ -14,14 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "gatunek/Dziad.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Dziad"
             }
+          },
+          {
+            "id": "123a96a5a7d861be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Informacje o wersji 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,22 +195,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Otwórz podgląd grafu": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
       "switcher:Otwórz okno szybkiego wyboru": false,
-      "graph:Otwórz graf": false,
       "canvas:Stwórz nową tablicę": false,
-      "daily-notes:Otwórz codzienną notatkę": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
       "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40da3fa19c82fed0",
+  "active": "123a96a5a7d861be",
   "lastOpenFiles": [
     "gatunek/Uzbrojenie.md",
     "gatunek/Dziad.md",
-    "_assets/husgard v2.png",
     "gatunek/Kyrtill.md",
+    "_assets/husgard v2.png",
     "gatunek/gatunek.md",
     "gatunek/Hjarta_skinnvernd.jpg",
     "Muchy Gardsviar.md",
