@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gatunek.md",
+                "file": "gatunek/gatunek.md",
                 "mode": "preview",
                 "source": false
               },
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2b2105a1cc0739",
+  "active": "bdcc21d80c006c73",
   "lastOpenFiles": [
-    "gatunek.md",
-    "gatunek.md",
+    "gatunek/gatunek.md",
+    "gatunek/gatunek.md",
     "gatunek/Dziad.md",
     "gatunek/Hjarta_skinnvernd.jpg",
     "gatunek/Ubrania.md",
