@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "gatunek/Uzbrojenie.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2b2105a1cc0739",
+  "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
     "gatunek/Dziad.md",
     "gatunek/Uzbrojenie.md",
