@@ -2,6 +2,23 @@
  
 
 
+![[Husgard.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[Husgard 1.png]]
 
 
 
@@ -19,21 +36,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Stary topór
+- Stary topór![[hircan klanu głowy.png]]
