@@ -36,4 +36,4 @@
 
 
 
-- Stary topór![[hircan klanu głowy.png]]
+- ![Stary topór] ![[hircan klanu głowy.png]]
