@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "gatunek/Uzbrojenie.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,12 +194,12 @@
   },
   "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
+    "gatunek/Dziad.md",
+    "gatunek/Uzbrojenie.md",
     "_assets/hircan klanu głowy.png",
     "_assets/Husgard 1.png",
     "_assets/Husgard.png",
     "gatunek/Kyrtill.md",
-    "gatunek/Uzbrojenie.md",
-    "gatunek/Dziad.md",
     "gatunek/gatunek.md",
     "gatunek/Hjarta_skinnvernd.jpg",
     "_assets/husgard v2.png",
@@ -214,7 +214,6 @@
     "ce870800-25c8-46db-9548-574d593a646b.png",
     "gatunek/Hjarta skinnvernd.jpg",
     "Hjarta.md",
-    "Hjarta skinnvernd.jpg",
     "Hjarta skinnvernd.jpg",
     "gatunek/Bez nazwy",
     "gat"
