@@ -11,14 +11,12 @@
             "id": "40da3fa19c82fed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "gatunek/Uzbrojenie.md",
-                "mode": "source",
-                "source": false
+                "file": "gatunek/Hjarta_skinnvernd.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Uzbrojenie"
+              "icon": "lucide-image",
+              "title": "Hjarta_skinnvernd"
             }
           }
         ]
@@ -194,12 +192,12 @@
   },
   "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
-    "gatunek/Dziad.md",
-    "gatunek/Uzbrojenie.md",
     "gatunek/Kyrtill.md",
-    "_assets/husgard v2.png",
+    "gatunek/Uzbrojenie.md",
+    "gatunek/Dziad.md",
     "gatunek/gatunek.md",
     "gatunek/Hjarta_skinnvernd.jpg",
+    "_assets/husgard v2.png",
     "Muchy Gardsviar.md",
     "Kyrtill.md",
     "2026-01-11.md",
