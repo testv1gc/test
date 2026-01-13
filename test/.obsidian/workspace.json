@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gatunek/Uzbrojenie.md",
+                "file": "gatunek/Dziad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uzbrojenie"
+              "title": "Dziad"
             }
           }
         ]
@@ -192,12 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2b2105a1cc0739",
+  "active": "40da3fa19c82fed0",
   "lastOpenFiles": [
+    "gatunek/Uzbrojenie.md",
     "_assets/Garden Crusade_ Mrówczy Konflikt, Polska Inskrypcja i Pająk Manipulator w Mrocznym Souls-Like'u.mp3",
     "gatunek/Dziad.md",
     "gatunek/gatunek.md",
-    "gatunek/Uzbrojenie.md",
     "Stary topór.md",
     "_assets/hircan klanu głowy.png",
     "_assets/Husgard 1.png",
